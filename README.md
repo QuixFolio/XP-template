@@ -1,3 +1,3 @@
-# 7-template
+# XP-template
 
 Windows XP style CSS
