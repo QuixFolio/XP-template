@@ -2,6 +2,7 @@
     "id":"XP-template",
     "name":"XP Template",
     "description":"This is a Windows XP template",
+    "tags":["retro"],
     "image":"image.png",
     "schema": {
     "cloneName": {
